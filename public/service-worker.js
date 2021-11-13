@@ -1,5 +1,3 @@
-console.log("Service Worker Connected");
-
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   '/',

@@ -32,13 +32,19 @@
   ## Installation
 
   To run this application properly, you need to install:
-  
-  * Clone the Repository * Enter npm i * Enter npm start
+  * Node.js 
+  * Express 
+  * PWA (Progressive Web Applications) 
+  * MongoDB 
+  * Compression 
+  * Heroku
   
 
   ## Usage
   
-  Node.js Express PWA (Progressive Web Applications) MongoDB Compression Heroku
+ * Clone the Repository 
+ * Enter npm i 
+ * Enter npm start
   
   
   ## License
